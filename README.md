@@ -1,6 +1,6 @@
 Merhaba!
 
-Ben, Öğrenmeyi, araştırmayı ve keşfetmeyi seven biriyim. Ayrıca yazılım dünyası ile de ilgileniyorum ve özellikle front-end ve React teknolojileri üzerinde çalışıyorum.
+Ben,Hamdullah ÇEVİK, Öğrenmeyi, araştırmayı ve keşfetmeyi seven biriyim. Ayrıca yazılım dünyası ile de ilgileniyorum ve özellikle front-end ve React teknolojileri üzerinde çalışıyorum.
 
 Projelerime gelince, kendimi her zaman geliştirmeye ve öğrenmeye odaklanıyorum. GitHub profilimde birçok açık kaynaklı proje bulabilirsiniz. Bu projelerde, web uygulamaları oluşturmak için HTML, CSS, JavaScript ve React kütüphanelerini kullanıyorum.
 
